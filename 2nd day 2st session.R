@@ -136,7 +136,7 @@ adder <- function(x,y){
 adder(1,4)
 
 d
-#This is the end of the workshopd
+#This is the end of the workshop
 
 
 
